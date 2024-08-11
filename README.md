@@ -1,5 +1,6 @@
-## Hi there 👋
-
+ 🙋‍♂️ mohamed Mghirite 19yo <br/> 
+🌱 I’m currently learning : Python-openCV <br/>
+⚡ Everyday new project
 <!--
 **MOHAMEDMGHIRITe/MOHAMEDMGHIRITe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

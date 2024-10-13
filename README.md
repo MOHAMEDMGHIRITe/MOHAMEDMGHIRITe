@@ -1,5 +1,4 @@
  🙋‍♂️ mohamed Mghirite 19yo <br/> 
-🌱 I’m currently learning : Python-openCV <br/>
  📫Contact : mohamedmghirite95@gmail.com
 
 <!--
